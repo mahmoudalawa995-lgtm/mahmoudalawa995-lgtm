@@ -1,48 +1,100 @@
-# Hey, I'm Mahmoud 👋
+ <h1 align="center">Hi 👋, I'm Mahmoud Alawa</h1>
+<h3 align="center">AI • Machine Learning • Deep Learning Engineer</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and building intelligent systems.
+Currently focusing on AI research, computer vision, large language models (LLMs), and real-world AI applications.
+</p>
 
-Nice to meet you! I'm currently working at GitHub as a software engineer.
-I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
-I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
+---
 
-## :game_die: Join my community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-20019-blue)
-![](https://img.shields.io/badge/Completed%20games-998-brightgreen)
-![](https://img.shields.io/badge/Total%20players-2178-orange)
+## 🚀 About Me
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+- 🤖 AI & Machine Learning Engineer
+- 🧠 Interested in Deep Learning, NLP, Computer Vision & LLMs
+- 📚 Currently learning advanced AI algorithms and model optimization
+- 💻 Love building intelligent applications with Python
+- 🌍 Open Source Contributor
+- 🎯 Goal: Build impactful AI products used by millions
 
-Game over, the red team has won! [Click here to start a new game!](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+---
 
-|1|2|3|4|5|6|7|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|
+## 🛠️ Languages & Tools
 
-Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/main/connect4) to read up on what's happening behind the scenes.
+<p align="left">
 
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Blue | 6 | [@barihari](https://github.com/barihari) |
-| Red | 3 | [@amonsgrimoire](https://github.com/amonsgrimoire) |
-| Blue | 4 | [@andyuan997](https://github.com/andyuan997) |
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux"/>
 
-**:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
-| Player | Wins |
-| ------ | -----|
-| [@totti-rdz](https://github.com/totti-rdz) | 198 |
-| [@BPower0036](https://github.com/BPower0036) | 142 |
-| [@antjacquemin](https://github.com/antjacquemin) | 113 |
-| Connect4Bot :robot: | 105 |
-| [@Nomes77](https://github.com/Nomes77) | 54 |
-| [@JohnyP36](https://github.com/JohnyP36) | 48 |
-| [@charmaine-kwok](https://github.com/charmaine-kwok) | 29 |
-| [@marcosbarker](https://github.com/marcosbarker) | 25 |
-| [@darshanr27](https://github.com/darshanr27) | 22 |
-| [@lulunac27a](https://github.com/lulunac27a) | 21 |
+</p>
+
+### AI / ML Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- Hugging Face
+- LangChain
+- Transformers
+
+---
+
+## 📌 Current Focus
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📈 Machine Learning
+- 📝 Natural Language Processing
+- 🚀 MLOps
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+⭐ If you like my projects, don't forget to leave a star!
+
