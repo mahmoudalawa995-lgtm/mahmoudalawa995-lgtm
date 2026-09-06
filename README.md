@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Mahmoud Alawa</h1>
+ <h1 align="center">Hi 👋, I'm Mahmoud Ayman</h1>
 <h3 align="center">AI • Machine Learning • Deep Learning Engineer</h3>
 
 <p align="center">
