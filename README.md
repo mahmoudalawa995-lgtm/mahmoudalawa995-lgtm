@@ -92,7 +92,7 @@ Currently focusing on AI research, computer vision, large language models (LLMs)
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- Email: mahmoudalawa995@gmail.com
 
 ---
 
